@@ -6,7 +6,7 @@ import Mybutton from "@/components/Mybutton";
 import { Suspense } from "react";
 import Loading from "./loading";
 import { hasLocale, NextIntlClientProvider } from "next-intl";
-import { routing } from "@/src/i18n/rounting";
+import { routing } from "@/src/i18n/routing";
 import { notFound } from "next/navigation";
 
 const geistSans = Geist({
