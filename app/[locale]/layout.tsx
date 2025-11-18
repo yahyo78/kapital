@@ -8,6 +8,8 @@ import Loading from "./loading";
 import { hasLocale, NextIntlClientProvider } from "next-intl";
 import { routing } from "@/src/i18n/routing";
 import { notFound } from "next/navigation";
+import Navbar from "./layouts/navbar";
+import Footer from "./layouts/footer";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -37,12 +39,15 @@ export default async function RootLayout({ children, params }: Props) {
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
-        <Link href={"/about"}>About</Link>
-        <Link href={"/"}>Home</Link>
-        <Link href={"/contact"}>Contact</Link>
-        <Suspense fallback={<Loading />}>
-          <NextIntlClientProvider>{children}</NextIntlClientProvider>
-        </Suspense>
+        <NextIntlClientProvider>
+          <header className="px-[5%] py-[10px]">
+            <Navbar />
+          </header>
+          <Suspense fallback={<Loading />}>{children}</Suspense>
+          <footer>
+            <Footer />
+          </footer>
+        </NextIntlClientProvider>
       </body>
     </html>
   );

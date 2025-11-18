@@ -1,5 +1,199 @@
 {
-  "HomePage": {
-    "title": "Hello world!"
+  "home": {
+    "companyName": "Capital-T",
+    "slogan": "A reliable partner for the successful growth of your business",
+
+    "bePartner": "Become a Partner",
+    "contactUs": "Contact Us",
+
+    "activeClients": "Active Clients",
+    "includingHoReCa": "including HoReCa",
+    "totalClients": "Total Client Base",
+
+    "aboutUs": "About Us",
+    "aboutUsText": "We are a leading company specializing in the import and distribution of a wide range of goods across Tajikistan.",
+
+    "values": "Values",
+    "valuesText": "Commitment to quality service, strengthening client trust, and continuous development. We are proud of our reputation as a leading and reliable partner providing access to the best products for businesses and the population of Tajikistan.",
+
+    "goals": "Goals",
+    "goal1": "Opening a Distribution Center in GBAO",
+    "goal2": "Opening a Distribution Center in GBAO",
+    "goal3": "Opening a Distribution Center in GBAO",
+
+    "companyToday": "Today, Capital-T is a modern, fast-growing company with great potential and prospects.",
+    "years": "24 years",
+    "yearsText": "serving cities and districts across Tajikistan",
+
+    "employeesCount": "300",
+    "employeesText": "dedicated employees",
+
+    "mainOffices": "Main Offices",
+    "city": "Dushanbe",
+    "phone": "+992 88 888 0101",
+    "address": "143 M. Nazarsheva Street",
+
+    "branchesTitle": "Branches with Warehouse and Sales Team",
+    "branch1": "Tursunzade",
+
+    "coverageMap": "Coverage Map",
+    "obk": "2170",
+    "akb": "2110",
+
+    "infrastructure": "Infrastructure",
+    "warehouseArea": "15,000 sq.m",
+    "warehouseDesc": "warehouse area",
+    "clientsCount": "8,000+",
+    "clientsText": "regular clients",
+
+    "title": "Partners and Clients",
+    "description": "Our portfolio includes globally recognized brands whose products are successfully promoted in our market. Main categories: food products and hygiene products.",
+    "otherNews": "Other News",
+    "allNews": "All News",
+    "vacancies": "Vacancies",
+    "experience": "Experience from 1 year",
+    "location": "Dushanbe",
+    "position": "Sales Representative",
+    "description_job": "Sales department supervisor, Dushanbe and RRP1. About the company: We are a developing manufacturer of household and toilet soaps.",
+    "titlePartner": "Become a Partner",
+    "fullName": "Full Name",
+    "companyNameInput": "Company Name",
+    "email": "Email",
+    "phoneInput": "Phone",
+    "uploadTitle": "Upload Proposal",
+    "uploadSize": "File size must not exceed 5 MB",
+    "send": "Send",
+    "emailContact": "contact@company.com",
+    "about": "About Us",
+    "coverageMap_menu": "Coverage Map",
+    "infrastructure_menu": "Infrastructure",
+    "partners": "Partners",
+    "vacancies_menu": "Vacancies",
+
+    "titleNews": "News",
+    "blockTitle": "Leading Trade and Distribution Company",
+    "p1": "CAPITAL-T is one of the largest distribution companies in Tajikistan, engaged in wholesale trade of food products, perfumery, cosmetics, and hygiene products.",
+    "p2": "Since 2000, the company has been actively developing: new partnerships are established, the number of clients is increasing, and the material and technical base is improving.",
+    "p3": "The company is actively expanding its sales geography to cover remote regions. Wholesale and retail directions are being developed.",
+    "more": "More",
+
+    "mainTitle": "Leading Trade and Distribution Company",
+
+    "aboutTitle": "About the Company",
+    "aboutText1": "CAPITAL-T is one of the largest distribution companies in Tajikistan, specializing in wholesale and distribution of food products, cosmetics, and hygiene goods.",
+    "aboutText2": "Since 2000, the company has been rapidly developing: partnerships are expanding, and the number of clients is growing.",
+    "aboutText3": "The company is actively expanding its sales geography and developing wholesale and retail channels.",
+
+    "valuesTitle": "Values",
+    "valuesText2": "Commitment to quality service, strengthening client trust, and continuous development. We take pride in our reputation.",
+
+    "goalsTitle": "Goals",
+    "goal1_new": "1. Opening a Distribution Center in GBAO",
+    "goal2_new": "2. Expanding the portfolio",
+    "goal3_new": "3. Improving service quality",
+
+    "companyToday_text": "Today, Capital-T is a modern, fast-growing company.",
+
+    "titleSupervisor": "Supervisor",
+    "title2News": "News",
+    "experience_new": "Experience from 1 year",
+    "location_new": "Bokhtar",
+    "jobTitle": "Sales Department Supervisor",
+    "fullTime": "Full-time",
+    "aboutCompanyTitle": "About the Company:",
+    "aboutCompany1": "We are a developing manufacturer of household and toilet soaps.",
+    "aboutCompany2": "We are looking for an active and goal-oriented leader. If you have the following qualities:",
+    "qualities": [
+      "Leadership skills and ability to inspire the team.",
+      "Strategic thinking and analytical skills.",
+      "Responsibility and organizational skills.",
+      "Ability to make quick decisions.",
+      "Result-oriented.",
+      "Goal-oriented.",
+      "Willingness to work in a highly competitive environment."
+    ],
+
+    "responsibilitiesTitle": "Main Responsibilities:",
+    "responsibilities": [
+      "Experience as a supervisor or head of sales department for at least 2 years.",
+      "Team management experience.",
+      "Knowledge of Dushanbe and RRP market.",
+      "Communication skills.",
+      "Ability to analyze data and develop strategies.",
+      "Preparedness for intensive work.",
+      "Working in a competitive environment."
+    ],
+
+    "importantTitle": "Important:",
+    "importantText": "The job requires high responsibility and focus on results.",
+
+    "expectationsTitle": "We Expect:",
+    "expectations": [
+      "Experience as a supervisor.",
+      "Ability to manage a team.",
+      "Understanding of the market.",
+      "Negotiation skills.",
+      "Analytical abilities.",
+      "Willingness to handle complex tasks.",
+      "Ability to work in a competitive environment."
+    ],
+
+    "weOfferTitle": "We Offer:",
+    "weOffer": [
+      "Leadership experience.",
+      "High results.",
+      "Market understanding.",
+      "Negotiation skills.",
+      "Strategy development.",
+      "Intensive work.",
+      "Competitive environment."
+    ],
+
+    "finalText": "We are looking for results-oriented people.",
+
+    "otherVacancies": "Other Vacancies",
+    "vacansion": "Sales Representative",
+
+    "regionsTitle": "Regions",
+    "regions": [
+      { "name": "Dushanbe", "count": 8 },
+      { "name": "Khujand", "count": 5 },
+      { "name": "Bokhtar", "count": 3 },
+      { "name": "Kulob", "count": 2 },
+      { "name": "Istaravshan", "count": 1 },
+      { "name": "Panjakent", "count": 4 },
+      { "name": "Rasht", "count": 1 },
+      { "name": "GBAO", "count": 2 }
+    ],
+
+    "categoriesTitle": "Categories",
+    "categories": [
+      { "name": "IT Specialist", "count": 8 },
+      { "name": "Lawyer", "count": 4 },
+      { "name": "Sales and Retail", "count": 10 },
+      { "name": "Administrative Staff", "count": 6 },
+      { "name": "Marketing, Advertising, Design", "count": 7 },
+      { "name": "HR, Personnel", "count": 3 },
+      { "name": "Security", "count": 2 },
+      { "name": "Accounting and Finance", "count": 5 }
+    ],
+
+    "vacanciesTitle": "Vacancies",
+    "searchPlaceholder": "Enter a vacancy",
+
+    "card": {
+      "job": "Sales Representative",
+      "location": "Dushanbe",
+      "experience": "Experience from 1 year"
+    },
+
+    "onas": "About Us",
+    "karta": "Coverage Map",
+    "info": "Infrastructure",
+    "partner": "Partners",
+    "vacansion_menu": "Vacancies",
+    "interest":"Interested in the vacancy?",
+    "zapolnite":"Fill in all the necessary information and upload your resume. We will contact you shortly!",
+    "click":"Apply"
   }
 }
